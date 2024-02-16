@@ -1,4 +1,4 @@
-# 23-2_DSL_Modeling_CV_A
+# 23-2_DSL_Modeling_CV
 ---
 ## 주제
 YOLO v5m을 활용한 재활용 가능 페트병 분류: 라벨과 유색 여부를 중심으로
